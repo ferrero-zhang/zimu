@@ -1,0 +1,45 @@
+2016-12-23 10:26:56 _internal.py[line:87] INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2016-12-23 10:27:00 leecher.py[line:71] INFO Load cookies from cookie file: {u'GKEY': u'6e72a7459db2dfd04b67b0bc38a65ba9', u'GINFO': u'uid%3D4577507%26nickname%3Dferrero_zhang%26group_id%3D1%26avatar_t%3Dhttp%3A%2F%2Ftu.rrsub.com%2Fftp%2Favatar%2Ff_noavatar_t.gif%26main_group_id%3D0%26common_group_id%3D52', u'PHPSESSID': u'kn2cm9mbve40is5bet862dtn23'}
+2016-12-23 10:27:01 leecher.py[line:136] INFO Resource list: 汽车总动员
+2016-12-23 10:27:01 leecher.py[line:145] INFO Start searching subtitle download link since 2016-12-23 10:26
+2016-12-23 10:27:01 leecher.py[line:162] INFO Searching for: 汽车总动员
+2016-12-23 10:27:01 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26433
+2016-12-23 10:27:02 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26413
+2016-12-23 10:27:02 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26275
+2016-12-23 10:27:02 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/21716
+2016-12-23 10:27:03 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/17718
+2016-12-23 10:27:03 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/17716
+2016-12-23 10:27:03 leecher.py[line:188] INFO Check next page
+2016-12-23 10:27:03 leecher.py[line:151] INFO Update the history-since time in config file.
+2016-12-23 10:27:04 _internal.py[line:87] INFO 127.0.0.1 - - [23/Dec/2016 10:27:04] "GET /search?keyword=%E6%B1%BD%E8%BD%A6%E6%80%BB%E5%8A%A8%E5%91%98 HTTP/1.1" 200 -
+2016-12-23 10:27:09 leecher.py[line:71] INFO Load cookies from cookie file: {u'GKEY': u'6e72a7459db2dfd04b67b0bc38a65ba9', u'GINFO': u'uid%3D4577507%26nickname%3Dferrero_zhang%26group_id%3D1%26avatar_t%3Dhttp%3A%2F%2Ftu.rrsub.com%2Fftp%2Favatar%2Ff_noavatar_t.gif%26main_group_id%3D0%26common_group_id%3D52', u'PHPSESSID': u'kn2cm9mbve40is5bet862dtn23'}
+2016-12-23 10:27:10 leecher.py[line:136] INFO Resource list: 汽车总动员2
+2016-12-23 10:27:10 leecher.py[line:145] INFO Start searching subtitle download link since 2016-12-23 10:27
+2016-12-23 10:27:10 leecher.py[line:162] INFO Searching for: 汽车总动员2
+2016-12-23 10:27:11 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26433
+2016-12-23 10:27:11 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26413
+2016-12-23 10:27:12 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/26275
+2016-12-23 10:27:12 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/21716
+2016-12-23 10:27:12 leecher.py[line:188] INFO Check next page
+2016-12-23 10:27:12 leecher.py[line:151] INFO Update the history-since time in config file.
+2016-12-23 10:27:12 _internal.py[line:87] INFO 127.0.0.1 - - [23/Dec/2016 10:27:12] "GET /search?keyword=%E6%B1%BD%E8%BD%A6%E6%80%BB%E5%8A%A8%E5%91%982 HTTP/1.1" 200 -
+2016-12-23 10:27:31 leecher.py[line:71] INFO Load cookies from cookie file: {u'GKEY': u'6e72a7459db2dfd04b67b0bc38a65ba9', u'GINFO': u'uid%3D4577507%26nickname%3Dferrero_zhang%26group_id%3D1%26avatar_t%3Dhttp%3A%2F%2Ftu.rrsub.com%2Fftp%2Favatar%2Ff_noavatar_t.gif%26main_group_id%3D0%26common_group_id%3D52', u'PHPSESSID': u'kn2cm9mbve40is5bet862dtn23'}
+2016-12-23 10:27:32 leecher.py[line:136] INFO Resource list: 海底总动员
+2016-12-23 10:27:32 leecher.py[line:145] INFO Start searching subtitle download link since 2016-12-23 10:27
+2016-12-23 10:27:32 leecher.py[line:162] INFO Searching for: 海底总动员
+2016-12-23 10:27:33 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/50868
+2016-12-23 10:27:33 leecher.py[line:226] INFO Resource id found:34852
+2016-12-23 10:27:34 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/48901
+2016-12-23 10:27:34 leecher.py[line:226] INFO Resource id found:25594
+2016-12-23 10:27:34 leecher.py[line:188] INFO Check next page
+2016-12-23 10:27:34 leecher.py[line:151] INFO Update the history-since time in config file.
+2016-12-23 10:27:34 _internal.py[line:87] INFO 127.0.0.1 - - [23/Dec/2016 10:27:34] "GET /search?keyword=%E6%B5%B7%E5%BA%95%E6%80%BB%E5%8A%A8%E5%91%98 HTTP/1.1" 200 -
+2016-12-23 10:27:39 leecher.py[line:71] INFO Load cookies from cookie file: {u'GKEY': u'6e72a7459db2dfd04b67b0bc38a65ba9', u'GINFO': u'uid%3D4577507%26nickname%3Dferrero_zhang%26group_id%3D1%26avatar_t%3Dhttp%3A%2F%2Ftu.rrsub.com%2Fftp%2Favatar%2Ff_noavatar_t.gif%26main_group_id%3D0%26common_group_id%3D52', u'PHPSESSID': u'kn2cm9mbve40is5bet862dtn23'}
+2016-12-23 10:27:40 leecher.py[line:136] INFO Resource list: 海底总动员2
+2016-12-23 10:27:40 leecher.py[line:145] INFO Start searching subtitle download link since 2016-12-23 10:27
+2016-12-23 10:27:40 leecher.py[line:162] INFO Searching for: 海底总动员2
+2016-12-23 10:27:41 leecher.py[line:209] INFO Find subtitle download link: http://www.zimuzu.tv/subtitle/50868
+2016-12-23 10:27:41 leecher.py[line:226] INFO Resource id found:34852
+2016-12-23 10:27:41 leecher.py[line:188] INFO Check next page
+2016-12-23 10:27:41 leecher.py[line:151] INFO Update the history-since time in config file.
+2016-12-23 10:27:41 _internal.py[line:87] INFO 127.0.0.1 - - [23/Dec/2016 10:27:41] "GET /search?keyword=%E6%B5%B7%E5%BA%95%E6%80%BB%E5%8A%A8%E5%91%982 HTTP/1.1" 200 -
